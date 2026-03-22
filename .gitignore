@@ -1,6 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/unity
 # Edit at https://www.toptal.com/developers/gitignore?templates=unity
-
+ProjectFile/Assets/Objects/StangersTent1-GM.fbx
 ### Unity ###
 # This .gitignore file should be placed at the root of your Unity project directory
 #
@@ -73,5 +73,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
 
 # End of https://www.toptal.com/developers/gitignore/api/unity

@@ -17,6 +17,14 @@ public class IntroSequence : MonoBehaviour
         .OnComplete(CutsceneEnd);
     }
 
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            DOTween.CompleteAll(true);
+        }
+    }
+
     public void CutsceneEnd()
     {
         //Allow player movement, unlock camera etc.
