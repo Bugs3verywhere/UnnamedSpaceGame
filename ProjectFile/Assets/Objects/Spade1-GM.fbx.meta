@@ -3,7 +3,47 @@ guid: 8e83605df3e337946beb412dac8b1835
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: c8e251ef56512904093ddd5ec8c548d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: b0408e1fd39c44040861d6deb307a14b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.003_Albedo
+    second: {fileID: 2800000, guid: 19a6ff0fdb6488d4c992d54f9a8c2795, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.003_Metallic
+    second: {fileID: 2800000, guid: 9eab35cdf95be574b8f7370da3be7d86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.003_Normal
+    second: {fileID: 2800000, guid: 13cc7dc74041d1148b4bbd54686c7431, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_Albedo
+    second: {fileID: 2800000, guid: 929600e3f3b1ad04cae9d3a11f0cbd3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_Metallic
+    second: {fileID: 2800000, guid: e4794fb680be3b9499bab8a755adf052, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_Normal
+    second: {fileID: 2800000, guid: cb8bbf138be0542459d1b306850e4e42, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
